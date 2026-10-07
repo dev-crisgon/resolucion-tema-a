@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ej1": "node src/ejercicio1.ts",
+    "ej2": "node src/ejercicio2.ts",
+    "ej3": "node src/ejercicio3.ts"
   },
   "keywords": [],
   "author": "",
